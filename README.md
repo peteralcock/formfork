@@ -1,7 +1,4 @@
 
-#FORMFORK
-
-Containarized Go API for scanning image reciepts.
 
 ## Quickstart
 
